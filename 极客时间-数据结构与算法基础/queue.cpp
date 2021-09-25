@@ -1,11 +1,3 @@
-/*
- * @Author: TWWT
- * @Date: 2021-09-25 09:39:19
- * @LastEditTime: 2021-09-25 10:21:17
- * @LastEditors: TWWT   
- * @Description: In User Settings Edit
- * @FilePath: \DataStructAndAlgorithm\极客时间-数据结构与算法基础\queue.cpp
- */
 
 // 用数组实现的队列
 public class ArrayQueue {
